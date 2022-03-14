@@ -233,7 +233,7 @@ def main_program_loop():
     opt = Options()
     opt.add_argument("--disable-blink-features=AutomationControlled")
     opt.add_experimental_option("debuggerAddress", "localhost:8989")
-    driver = webdriver.Chrome("/usr/bin/chromedriver",options=opt)
+    driver = webdriver.Chrome("./chromedriver",options=opt)
     # driver = webdriver.Chrome( service=Service(project_path + "/chromedriver.exe"), options=opt )
     wait = WebDriverWait(driver, 60)
 
