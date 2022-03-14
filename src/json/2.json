@@ -1,0 +1,27 @@
+{
+  "name": "GgeDori #2",
+  "description": "This is GgeDori NFT collection made by youtube dct studio",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "40c0d2e043dd913c522a0daea70836c4df0145ea",
+  "edition": 2,
+  "date": 1646588479124,
+  "attributes": [
+    {
+      "trait_type": "back",
+      "value": "back05"
+    },
+    {
+      "trait_type": "body",
+      "value": "body12"
+    },
+    {
+      "trait_type": "hat",
+      "value": "hat06"
+    },
+    {
+      "trait_type": "tie",
+      "value": "tie02"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
