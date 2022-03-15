@@ -72,3 +72,10 @@ Thank you.
      
 # Message for a Windwos user
 Currently this script only tested in Linux/MacOS. Not compatible for Windows
+      
+ <p><ul>      
+      
+<br>
+https://discord.com/channels/953087006232174673/953308997774086214
+   </ul>
+  </p>
