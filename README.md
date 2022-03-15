@@ -17,6 +17,7 @@ https://youtu.be/PzbfC8jkS3o
 # Changelog
   <ul>
     <li><b>Version 1.0.0 (upload_captcha.py)</b><BR>
+    <li><b>Version 1.0.0 (NFT SELL Only 6Month duration)</b><BR>
 
 
 # Instructions
